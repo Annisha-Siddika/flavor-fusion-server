@@ -5,42 +5,48 @@
         "name": "Musa Dağdeviren",
         "photo_url": "https://images.squarespace-cdn.com/content/v1/5f062cd4be01b227f768ea0d/1604513435283-LX3QAM60XG4HWFOOTUPC/DagdevirenMusa.JPG?format=1000w",
         "year_of_experience": 30,
-        "num_recipes": 200
+        "num_recipes": 200,
+        "likes": "5M"
       },
       {
         "id": 2,
         "name": "Somer Sivrioğlu",
         "photo_url": "https://i.lezzet.com.tr/images-800x600/4f109c91-9dea-4ccf-bb5c-03f40ff63064-c7c8f93e-2124-43d9-bc32-d6d4db814eff",
         "year_of_experience": 25,
-        "num_recipes": 150
+        "num_recipes": 150,
+        "likes": "3.2M"
       },
       {
         "id": 3,
         "name": "İsmet Saz",
         "photo_url": "https://ogrencimerkezi.yeditepe.edu.tr/sites/default/files/styles/mt_portrait_image/public/2021-10/I%CC%87smet-Saz_0.jpeg?itok=StxAFscM",
         "year_of_experience": 18,
-        "num_recipes": 90
+        "num_recipes": 90,
+        "likes": "2.5M"
       },
       {
         "id": 4,
         "name": "Burak Özdemir",
         "photo_url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/09/07/thumbs/800x531/142488.jpg",
         "year_of_experience": 10,
-        "num_recipes": 50
+        "num_recipes": 50,
+        "likes": "8M"
       },
       {
         "id": 5,
         "name": "Hazer Amani",
         "photo_url": "https://imgsrc.cineserie.com/2020/12/493901.jpg?ver=1",
         "year_of_experience": 15,
-        "num_recipes": 75
+        "num_recipes": 75,
+        "likes": "3M"
       },
       {
         "id": 6,
         "name": "Tuba Geçkil",
         "photo_url": "https://cdni0.trtworld.com/w960/h540/q75/95797_20201231_2_46127464_61132522_1609758778406.jpg",
         "year_of_experience": 5,
-        "num_recipes": 25
+        "num_recipes": 25,
+        "likes": "2.4M"
       }
     ]
   }

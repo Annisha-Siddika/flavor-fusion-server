@@ -1,0 +1,192 @@
+[{
+    "id": 1,
+    "name": "Musa Dağdeviren",
+    "photo_url": "https://images.squarespace-cdn.com/content/v1/5f062cd4be01b227f768ea0d/1604513435283-LX3QAM60XG4HWFOOTUPC/DagdevirenMusa.JPG?format=1000w",
+    "year_of_experience": 30,
+    "num_recipes": 200,
+    "likes": "5M",
+    "bio": "Musa Dağdeviren is a renowned chef and restaurateur from Turkey, known for his extensive research into traditional Turkish cuisine. He has spent over 30 years studying and documenting regional recipes and cooking methods, and has been recognized with numerous awards and accolades for his work in preserving and promoting Turkey's culinary heritage.",
+    "recipes": [
+        {
+            "recipe_name": "Lahmacun",
+            "pic": "https://www.mekkafood.com/images/1000x500/pui0411210978_3.jpg",
+            "ingredients": "500g flour, 1 tbsp salt, 1 tbsp sugar, 1 tbsp instant yeast, 1 tsp ground cumin, 1 tsp paprika, 1 tbsp tomato paste, 1 tbsp pepper paste, 1 onion, grated, 2 tomatoes, grated, 500g ground beef or lamb, 1/2 bunch parsley, finely chopped, 1/2 bunch mint, finely chopped, 1/2 bunch green onions, finely choppe.",
+            "cooking_method": "Mix the flour, salt, sugar, yeast, cumin, paprika, tomato paste, pepper paste, and grated onion and tomato in a bowl. Add enough water to make a soft dough. Knead for 10 minutes. Cover and let rise for 30 minutes. Mix the ground meat, parsley, mint, and green onions. Divide the dough into small pieces and roll each piece into a thin circle. Spread a thin layer of the meat mixture on each circle. Bake in a preheated oven at 250°C for 5-7 minutes, or until the edges are crispy and the meat is cooked. Serve hot with lemon wedges and fresh parsley.",
+            "rating": 4.8
+        },
+        {
+            "recipe_name": "Çiğ Köfte",
+            "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSez_6b2BYVcoURnkjTUoOo1lUsA6JZgTBlJtx9-3-TjFfCIU&s",
+            "ingredients": "500g fine bulgur, 1 onion, finely chopped, 4-5 green onions, finely chopped, 1/2 bunch parsley, finely chopped, 1/2 bunch mint, finely chopped, 1/2 bunch dill, finely chopped, 1/2 cup tomato paste, 1/2 cup pepper paste, 1 tbsp red pepper flakes, 1 tbsp cumin, 1 tbsp black pepper, 2 tbsp salt, 1/2 cup olive oil, 1/2 cup pomegranate syru.",
+            "cooking_method": "Soak the bulgur in hot water for 30 minutes. Squeeze out the excess water. Mix the bulgur with the onion, green onions, parsley, mint, and dill. Add the tomato paste, pepper paste, red pepper flakes, cumin, black pepper, salt, olive oil, and pomegranate syrup. Knead the mixture well for at least 20 minutes, until the ingredients are well combined and the mixture becomes sticky. Serve with lettuce leaves and lemon wedges.",
+            "rating": 4.5
+        },
+        {
+            "recipe_name": "Adana Kebab",
+            "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHFt5J42pPphxvbz40zUSJ7hRt7P6OqDlSyGzB4rDH2n9kfmM&s",
+            "ingredients": "1 lb ground lamb, 1 onion, grated, 2 garlic cloves, minced, 2 tbsp paprika, 2 tsp ground cumin, 2 tsp ground sumac, 1 tsp salt, 1/2 tsp black pepper, 1/4 tsp cayenne pepper, Skewers, Chopped parsley, for servin",
+            "cooking_method": "1. Preheat grill to medium-high heat. \n2. In a large bowl, mix together the ground lamb, grated onion, garlic, paprika, cumin, sumac, salt, black pepper, and cayenne pepper until well combined. \n3. Divide the mixture into 6 portions and shape each portion into a long sausage shape around the skewers. \n4. Grill the kebabs for 8-10 minutes, turning occasionally, until cooked through. \n5. Serve hot with chopped parsley.",
+            "rating": 4.8
+        }
+    ]
+},
+{
+    "id": 2,
+    "name": "Somer Sivrioğlu",
+    "photo_url": "https://i.lezzet.com.tr/images-800x600/4f109c91-9dea-4ccf-bb5c-03f40ff63064-c7c8f93e-2124-43d9-bc32-d6d4db814eff",
+    "year_of_experience": 25,
+    "num_recipes": 150,
+    "likes": "3.2M",
+    "bio": "Somer Sivrioğlu is a renowned Turkish chef, restaurateur, and author. He is the co-owner and head chef of Efendy Restaurant in Balmain, Sydney, which is known for its authentic Turkish cuisine.",
+    "recipes": [
+        {
+            "recipe_name": "Beyti Kebab",
+            "pic": "https://i.ytimg.com/vi/kQodNflJALQ/maxresdefault.jpg",
+            "ingredients": "1 lb ground lamb; 1/4 cup minced onion; 2 garlic cloves, minced; 1 tsp ground cumin; 1/2 tsp ground cinnamon; Salt and pepper to taste; 4 large flatbreads; 1/4 cup melted butter",
+            "cooking_method": "1. In a large bowl, mix together the ground lamb, minced onion, minced garlic, ground cumin, ground cinnamon, salt, and pepper. \n2. Divide the mixture into 4 portions and shape each portion into a long sausage shape. \n3. Preheat a grill or grill pan to high heat. \n4. Grill the lamb sausages for 6-8 minutes, or until cooked through. \n5. Cut the flatbreads in half and brush them with melted butter. \n6. Place a grilled lamb sausage on each flatbread half and roll up tightly. \n7. Serve hot with your favorite dipping sauce.",
+            "rating": 4.6
+        },
+        {
+            "recipe_name": "Lamb Shish Kebab",
+            "pic": "https://mymorningmocha.com/wp-content/uploads/2021/12/Lamb-meat-cooked-on-grill.jpg",
+            "ingredients": "1 lb lamb leg meat, cut into 1-inch cubes; 1/4 cup olive oil; 2 tbsp tomato paste; 2 garlic cloves, minced; 1 tsp smoked paprika; Salt and pepper to taste",
+            "cooking_method": "1. In a large bowl, whisk together the olive oil, tomato paste, minced garlic, smoked paprika, salt, and pepper. \n2. Add the lamb cubes to the bowl and toss to coat with the marinade. \n3. Cover the bowl with plastic wrap and refrigerate for at least 1 hour or up to overnight. \n4. Preheat a grill or grill pan to high heat. \n5. Thread the lamb cubes onto skewers, leaving a little space between each piece. \n6. Grill the lamb shish kebabs for 3-4 minutes per side, or until browned and cooked to your desired doneness. \n7. Serve hot with your favorite side dishes.",
+            "rating": 4.8
+        },
+        {
+            "recipe_name": "Ezme Salad",
+            "pic": "https://www.giverecipe.com/wp-content/uploads/2017/07/Turkish-ezme-salad.jpg",
+            "ingredients": "2 large tomatoes, chopped; 2 large red peppers, chopped; 1/2 red onion, chopped; 2 tbsp pomegranate molasses; 2 tbsp lemon juice; 1 tbsp olive oil; Salt and pepper to taste; 1/4 cup chopped fresh parsley",
+            "cooking_method": "1. In a large bowl, mix together the chopped tomatoes, red peppers, and red onion. \n2. Add the pomegranate molasses, lemon juice, olive oil, salt, and pepper to the bowl and mix well. \n3. Stir in the chopped fresh parsley. \n4. Serve the Ezme Salad as a side dish or topping for grilled meats or vegetables.",
+            "rating": 4.5
+        }
+    ]
+},
+{
+    "id": 3,
+    "name": "İsmet Saz",
+    "photo_url": "https://ogrencimerkezi.yeditepe.edu.tr/sites/default/files/styles/mt_portrait_image/public/2021-10/I%CC%87smet-Saz_0.jpeg?itok=StxAFscM",
+    "year_of_experience": 18,
+    "num_recipes": 90,
+    "likes": "2.5M",
+    "bio": "İsmet Saz is a Turkish chef, restaurateur, and cookbook author. He is known for his creative twists on traditional Turkish dishes, and his commitment to using fresh, locally-sourced ingredients in his cooking.",
+    "recipes": [
+        {
+            "recipe_name": "Turkish Breakfast",
+            "pic": "https://insanelygoodrecipes.com/wp-content/uploads/2022/05/Turkish-Breakfast-Eggs-with-Spices-and-Bread-683x1024.jpg",
+            "ingredients": "2 eggs; 2 slices of feta cheese; 1 large tomato, sliced; 1 cucumber, sliced; 1 green pepper, sliced; 1/4 cup olives; 1/4 cup honey; 1/4 cup tahini; 1/4 cup yogurt; 2 tbsp butter; 2 slices of bread",
+            "cooking_method": "1. In a small bowl, mix together the honey and tahini to make the honey-tahini sauce. \n2. Toast the slices of bread and spread the honey-tahini sauce on each slice. \n3. In a large skillet, melt the butter over medium heat. \n4. Crack the eggs into the skillet and cook until the whites are set but the yolks are still runny. \n5. Serve the eggs with the slices of feta cheese, tomato, cucumber, green pepper, and olives, along with the slices of bread topped with the honey-tahini sauce and a dollop of yogurt.",
+            "rating": 4.8
+        },
+        {
+            "recipe_name": "Baked Eggplant with Tomato and Cheese",
+            "pic": "https://img-global.cpcdn.com/recipes/ac97e15e72dfc51a/1200x630cq70/photo.jpg",
+            "ingredients": "2 eggplants, sliced; 2 large tomatoes, chopped; 1 large onion, chopped; 3 cloves of garlic, minced; 1/4 cup olive oil; Salt and pepper to taste; 1/2 cup grated parmesan cheese",
+            "cooking_method": "1. Preheat the oven to 375°F. \n2. In a large bowl, mix together the sliced eggplants, chopped tomatoes, chopped onion, minced garlic, olive oil, salt, and pepper. \n3. Transfer the mixture to a baking dish and bake in the preheated oven for 45 minutes. \n4. Sprinkle the grated parmesan cheese over the top of the baked eggplant mixture and bake for an additional 10-15 minutes, or until the cheese is melted and bubbly. \n5. Serve the Baked Eggplant with Tomato and Cheese hot with a side of crusty bread.",
+            "rating": 4.5
+        },
+        {
+            "recipe_name": "Turkish Meatballs",
+            "pic": "https://realfood.tesco.com/media/images/Turkish-meatballs-LGH-mini-daccca39-c36f-4bf1-a357-e84aac581b1c-0-1400x919.jpg",
+            "ingredients": "1 lb ground lamb; 1/2 cup breadcrumbs; 1/4 cup chopped fresh parsley; 1 egg, lightly beaten; 1 tsp ground cumin; 1/2 tsp ground cinnamon; Salt and pepper to taste; 2 tbsp olive oil",
+            "cooking_method": "1. In a large bowl, mix together the ground lamb, breadcrumbs, chopped fresh parsley, beaten egg, ground cumin, ground cinnamon, salt, and pepper. \n2. Divide the mixture into 12 portions and shape each portion into a meatball. \n3. Heat the olive oil in a large skillet over medium heat. \n4. Add the meatballs to the skillet and cook for 10-12 minutes, turning occasionally, or until browned on all sides and cooked through. \n5. Serve the Turkish Meatballs hot with your favorite side dishes.",
+            "rating": 4.3
+        }
+    ]
+},
+{
+    "id": 4,
+    "name": "Burak Özdemir",
+    "photo_url": "https://idsb.tmgrup.com.tr/ly/uploads/images/2021/09/07/thumbs/800x531/142488.jpg",
+    "year_of_experience": 10,
+    "num_recipes": 50,
+    "likes": "8M",
+    "bio": "Burak Özdemir is a Turkish chef, restaurateur, and social media sensation. He is known for his larger-than-life personality, impressive cooking skills, and signature dishes that he shares with his millions of followers on social media.",
+    "recipes": [
+        {
+            "recipe_name": "Turkish Manti",
+            "pic": "https://turkishstylecooking.com/wp-content/uploads/2022/04/manti_corbasi2.jpg",
+            "ingredients": "1 lb ground beef; 1/2 cup finely chopped onion; 2 garlic cloves, minced; 1/2 cup finely chopped fresh parsley; 1/2 cup finely chopped fresh mint; 1 egg; Salt and pepper to taste; 1 package of wonton wrappers; 1/2 cup plain yogurt; 2 tbsp melted butter; 1/4 tsp paprika",
+            "cooking_method": "1. In a large bowl, mix together the ground beef, onion, garlic, parsley, mint, egg, salt, and pepper until well combined. \n2. Lay a wonton wrapper on a clean work surface and place a small spoonful of the beef mixture in the center. \n3. Fold the wonton wrapper in half to enclose the beef mixture and press the edges to seal. \n4. Repeat with the remaining wonton wrappers and beef mixture. \n5. In a large pot of boiling salted water, cook the manti until they float to the surface, about 3-4 minutes. \n6. Drain the manti and place them in a serving dish. \n7. In a small bowl, mix together the yogurt, melted butter, and paprika. \n8. Drizzle the yogurt mixture over the manti and serve hot.",
+            "rating": 4.9
+        },
+        {
+            "recipe_name": "Turkish Meatball Kebabs",
+            "pic": "https://www.mycolombianrecipes.com/wp-content/uploads/2017/05/turkey-meatballs-skewers-2.jpg",
+            "ingredients": "1 lb ground beef; 1/2 cup finely chopped onion; 1/2 cup finely chopped fresh parsley; 1/2 cup finely chopped fresh mint; 1 egg; Salt and pepper to taste; 2 tbsp olive oil; 1 large red onion, cut into wedges; 1 large green bell pepper, cut into wedges; 1 large red bell pepper, cut into wedges",
+            "cooking_method": "1. In a large bowl, mix together the ground beef, onion, parsley, mint, egg, salt, and pepper until well combined. \n2. Divide the mixture into 8 portions and shape each portion into a meatball. \n3. Thread the meatballs onto skewers, alternating with the onion and bell pepper wedges. \n4. Brush the meatball kebabs with olive oil. \n5. Preheat the grill to medium-high heat and grill the kebabs, turning occasionally, until the meatballs are cooked through and the vegetables are tender and charred, about 10-12 minutes. \n6. Serve the Turkish Meatball Kebabs hot with a side of rice or salad.",
+            "rating": 4.7
+        },
+        {
+            "recipe_name": "Turkish Lentil Soup",
+            "pic": "https://www.simplyrecipes.com/thmb/0z1RvGGkybr3hb3vZmQ5c2p67bA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Mercimek-Corbasi-LEAD-8-c23057acf1e842689ece8bd0edba8f1c.jpg",
+            "ingredients": "1 cup red lentils; 1 small onion, chopped; 2 garlic cloves, minced; 1 carrot, chopped; 1 celery stalk, chopped; 6 cups chicken or vegetable broth; 2 tbsp olive oil; Salt and pepper to taste",
+            "cooking_method": "1. Rinse the lentils in a strainer and set aside. \n2. In a large pot, heat the olive oil over medium heat. \n3. Add the chopped onion, minced garlic, chopped carrot, and chopped celery to the pot. \n4. Cook until the vegetables are softened, about 5 minutes. \n5. Add the rinsed lentils to the pot and stir everything together. \n6. Pour in the chicken or vegetable broth and bring the soup to a boil. \n7. Reduce the heat to low and let the soup simmer for 20-25 minutes, or until the lentils are cooked through. \n8. Season with salt and pepper to taste. \n9. Serve the Turkish Lentil Soup hot with a slice of crusty bread.",
+            "rating": 4.6
+        }
+    ]
+},
+{
+    "id": 5,
+    "name": "Hazer Amani",
+    "photo_url": "https://imgsrc.cineserie.com/2020/12/493901.jpg?ver=1",
+    "year_of_experience": 15,
+    "num_recipes": 75,
+    "likes": "3M",
+    "bio": "Hazer Amani is a renowned chef who specializes in Persian cuisine. He has worked in various restaurants and has been featured in many cooking shows. His passion for food and his dedication to his craft have made him a respected figure in the culinary world.",
+    "recipes": [
+        {
+            "recipe_name": "Gheymeh",
+            "pic": "https://www.196flavors.com/wp-content/uploads/2022/03/Khoresh-Gheymeh-FP.jpg",
+            "ingredients": "1 cup yellow split peas, 1 lb stew meat, 2 onions, 2 tbsp tomato paste, 2 tbsp dried lime powder, salt and pepper to taste",
+            "cooking_method": "1. In a pot, cook the split peas in water until soft. 2. In another pot, brown the meat and onions. 3. Add tomato paste and fry for a few minutes. 4. Add water, dried lime powder, salt, and pepper. 5. Add the cooked split peas and simmer for 1 hour.",
+            "rating": 4.5
+        },
+        {
+            "recipe_name": "Khoresh Bademjan",
+            "pic": "https://cookingcounty.com/wp-content/uploads/2022/04/khoresh-bademjan.jpg",
+            "ingredients": "1 lb stew meat, 1 large onion, 2 eggplants, 3 tomatoes, 1 tbsp tomato paste, 2 tbsp dried lime powder, salt and pepper to taste",
+            "cooking_method": "1. Brown the meat and onions in a pot. 2. Add water, tomato paste, dried lime powder, salt, and pepper. 3. Cut the eggplants into cubes and fry them in oil. 4. Add the fried eggplants to the pot. 5. Add chopped tomatoes and simmer for 1 hour.",
+            "rating": 4.8
+        },
+        {
+            "recipe_name": "Baghali Polo",
+            "pic": "https://i.ytimg.com/vi/g6BR7YF8xbk/maxresdefault.jpg",
+            "ingredients": "1 lb lamb shank, 2 cups basmati rice, 1 can lima beans, 1 onion, 2 tbsp butter, 1 tbsp turmeric, salt and pepper to taste",
+            "cooking_method": "1. In a pot, brown the lamb shank and onion. 2. Add water, turmeric, salt, and pepper. 3. Simmer for 2 hours until the meat is tender. 4. Cook the rice according to package instructions. 5. In a separate pan, fry the lima beans in butter. 6. Mix the cooked rice and lima beans. 7. Serve the lamb shank on top of the rice and enjoy.",
+            "rating": 4.7
+        }
+    ]
+},
+{
+    "id": 6,
+    "name": "Tuba Geçkil",
+    "photo_url": "https://cdni0.trtworld.com/w960/h540/q75/95797_20201231_2_46127464_61132522_1609758778406.jpg",
+    "year_of_experience": 5,
+    "num_recipes": 25,
+    "likes": "2.4M",
+    "bio": "Tuba Geçkil is a renowned Turkish chef who is passionate about traditional Anatolian cuisine. She owns a restaurant in Istanbul that specializes in regional dishes from different parts of Turkey. She has also appeared in many cooking shows and has won several awards for her culinary skills.",
+    "recipes": [
+        {
+            "recipe_name": "Lahmacun",
+            "pic": "https://www.auxdelicesdupalais.net/wp-content/uploads/2021/03/pizza-turque-3-780x470.jpg",
+            "ingredients": "For the dough: 2 cups flour, 1 tbsp dry yeast, 1 tsp sugar, 1 tsp salt, 1/2 cup warm water. For the topping: 1 lb ground lamb, 2 onions, 2 tomatoes, 2 green peppers, 1/2 bunch parsley, 2 tbsp tomato paste, 1 tsp red pepper flakes, 1 tsp cumin, salt and pepper to taste",
+            "cooking_method": "1. Mix the flour, dry yeast, sugar, salt, and warm water to make the dough. 2. Knead the dough for 5-10 minutes and let it rest for 1 hour. 3. Meanwhile, chop the onions, tomatoes, green peppers, and parsley. 4. Mix the ground lamb, chopped vegetables, tomato paste, red pepper flakes, cumin, salt, and pepper to make the topping. 5. Roll out the dough into thin circles. 6. Spread the topping evenly on the dough circles. 7. Bake in a preheated oven at 400°F for 10-15 minutes.",
+            "rating": 4.6
+        },
+        {
+            "recipe_name": "Tavuk Sote",
+            "pic": "https://cdn.yemek.com/mnresize/940/940/uploads/2016/04/sebzeli-tavuk-sote.jpg",
+            "ingredients": "1 lb chicken breast, 1 onion, 1 red bell pepper, 1 green bell pepper, 1 tomato, 1 tbsp tomato paste, 1/2 cup chicken broth, 2 tbsp olive oil, 1 tsp paprika, salt and pepper to taste",
+            "cooking_method": "1. Cut the chicken breast into bite-sized pieces. 2. Chop the onion, red bell pepper, green bell pepper, and tomato. 3. Heat the olive oil in a pan and add the chicken. 4. Cook until browned on all sides. 5. Add the chopped vegetables and sauté for a few minutes. 6. Add the tomato paste, paprika, salt, and pepper. 7. Pour in the chicken broth and simmer for 10-15 minutes.",
+            "rating": 4.4
+        },
+        {
+            "recipe_name": "Mercimek Köftesi",
+            "pic": "https://www.supermarche-match.be/uploads/recipes/images/_1200x600_crop_center-center_none/Mercimek-Koftesi-Turquie.jpg",
+            "ingredients": "1 cup red lentils, 1 cup fine bulgur, 1 onion, 1/2 bunch parsley, 2 tbsp tomato paste, 2 tbsp red pepper paste, 1 tsp cumin, salt and pepper to taste",
+            "cooking_method": "1. Boil the red lentils in water until soft. 2. Drain the water and mash the lentils. 3. Add the fine bulgur, chopped onion, parsley, tomato paste, red pepper paste, cumin, salt, and pepper. 4. Mix all the ingredients thoroughly. 5. Shape the mixture into small balls or patties. 6. Serve cold as a meze or appetizer.",
+            "rating": 4.3
+        }
+    ]
+}]
