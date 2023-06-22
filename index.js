@@ -11,15 +11,17 @@ app.use(cors());
 app.get('/', (req, res) =>{
     res.send('Flavor is running')
 });
-
+// all chef informations
 app.get('/chefinfo', (req, res)=>{
     res.send(chefsInfo)
 });
 
+// all recipes
 app.get('/recipes', (req, res)=>{
     res.send(recipes)
 });
 
+// single recipes
 app.get('/recipes/:id', (req, res)=>{
     const id = req.params.id;
     const selectedChef = recipes.find(n=> n.id === parseInt(id));
